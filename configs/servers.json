@@ -1,1 +1,41 @@
-[]
+[
+    {
+        "type": "GamedigQuery",
+        "game": "csgo",
+        "addr": "172.107.199.10",
+        "port": 27015,
+        "custom": "Classic 128 Tick | 600FPS",
+        "channel": 631189097284632586
+    },
+    {
+        "type": "GamedigQuery",
+        "game": "wolfensteinet",
+        "addr": "172.107.199.10",
+        "port": 27960,
+        "custom": "Enemy Territory: Legacy",
+        "channel": 631189097284632586
+    },
+    {
+        "type": "GamedigQuery",
+        "game": "fivem",
+        "Title": "GTA:V FiveM",
+        "addr": "172.107.199.10",
+        "port": 30120,
+        "custom": "GTA:FiveM. (Requires Steam to be running before starting FiveM)",
+        "channel": 631189097284632586
+    },
+    {
+        "type": "GamedigQuery",
+        "game": "rust",
+        "addr": "172.107.199.10",
+        "port": 28015,
+        "channel": 631189097284632586
+    },
+    {
+        "type": "GamedigQuery",
+        "game": "svencoop",
+        "addr": "172.107.199.10",
+        "port": 27017,
+        "channel": 631189097284632586
+    }
+]
