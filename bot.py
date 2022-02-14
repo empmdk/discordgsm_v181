@@ -278,7 +278,7 @@ class DiscordGSM():
             embed = discord.Embed(title='ERROR', description=f'{FIELD_STATUS}: :warning: **Fail to query**', color=color)
             embed.add_field(name=f'{FIELD_ADDRESS}:{FIELD_PORT}', value=f'{server["addr"]}:{server["port"]}', inline=True)
         
-        embed.set_footer(text=f'📺Game Server Monitor | Last update: ' + datetime.now().strftime('%a, %Y-%m-%d %I:%M:%S%p'), icon_url='https://github.com/empmdk/discordgsm_v181/raw/main/images/network_connnections.png')
+        embed.set_footer(text=f'EMPHQ | 📺Game Server Monitor | Last update: ' + datetime.now().strftime('%a, %Y-%m-%d %I:%M:%S%p'), icon_url='https://github.com/empmdk/discordgsm_v181/raw/main/images/network_connnections.png')
         
         return embed
 
