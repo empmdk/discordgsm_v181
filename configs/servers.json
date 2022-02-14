@@ -1,41 +1,58 @@
 [
     {
+        "custom": "CS:GO Classic 128 Tick | 600FPS",
         "type": "GamedigQuery",
         "game": "csgo",
         "addr": "172.107.199.10",
         "port": 27015,
-        "custom": "Classic 128 Tick | 600FPS",
+        "map": false,
+        "steam_id": "730",
+        "direct_join": true,
+        "image_url": "https://github.com/empmdk/discordgsm_v181/blob/main/images/games/csgo.png?raw=true",
         "channel": 631189097284632586
     },
     {
+        "custom": "Enemy Territory: Legacy",
         "type": "GamedigQuery",
         "game": "wolfensteinet",
         "addr": "172.107.199.10",
         "port": 27960,
-        "custom": "Enemy Territory: Legacy",
+        "map": false,
+        "image_url": "https://github.com/empmdk/discordgsm_v181/blob/main/images/games/enemy_territory.png?raw=true",
         "channel": 631189097284632586
     },
     {
+        "custom": "GTA:FiveM (Requires Steam before starting FiveM)",
         "type": "GamedigQuery",
         "game": "fivem",
-        "Title": "GTA:V FiveM",
         "addr": "172.107.199.10",
         "port": 30120,
-        "custom": "GTA:FiveM. (Requires Steam to be running before starting FiveM)",
+        "map": false,
+        "image_url": "https://github.com/empmdk/discordgsm_v181/blob/main/images/games/fivem.png?raw=true",
         "channel": 631189097284632586
     },
     {
+        "custom": "Rust",
         "type": "GamedigQuery",
         "game": "rust",
         "addr": "172.107.199.10",
         "port": 28015,
+        "map": false,
+        "steam_id": "252490",
+        "direct_join": true,
+        "image_url": "https://github.com/empmdk/discordgsm_v181/blob/main/images/games/rust.png?raw=true",
         "channel": 631189097284632586
     },
     {
+        "custom": "Sven CoOp",
         "type": "GamedigQuery",
         "game": "svencoop",
         "addr": "172.107.199.10",
         "port": 27017,
+        "map": false,
+        "steam_id": "225840",
+        "direct_join": true,
+        "image_url": "https://github.com/empmdk/discordgsm_v181/blob/main/images/games/sven_coop.png?raw=true",
         "channel": 631189097284632586
     }
 ]
